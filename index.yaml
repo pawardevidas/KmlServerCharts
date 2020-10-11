@@ -7,6 +7,6 @@ entries:
     digest: fc5458bea9140a8a44e533d0849f2bcde3bf8377c12415d0e5b23fbde1979057
     name: KML Server Deployment
     urls:
-    - KML Server Deployment-1.0.0.tgz
+    - https://raw.githubusercontent.com/pawardevidas/KmlServerCharts/main/KML Server Deployment-1.0.0.tgz
     version: 1.0.0
 generated: "2020-10-11T06:06:35.948949709Z"
