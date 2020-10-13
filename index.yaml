@@ -1,12 +1,21 @@
 apiVersion: v1
 entries:
-  KML-Server-Deployment:
+  KML Server Deployment:
   - apiVersion: v2
-    created: "2020-10-13T02:23:07.415130748Z"
+    created: "2020-10-13T06:07:06.022427447Z"
     description: Single deployment for controldb and api server
     digest: ff55cbcd3a8164d2c07af40932f842aca8c78761bbf0c6d975692f291166019d
     name: KML Server Deployment
     urls:
     - https://raw.githubusercontent.com/pawardevidas/KmlServerCharts/main/KML-Server-Deployment-1.0.0.tgz
     version: 1.0.0
-generated: "2020-10-13T02:23:07.414687873Z"
+  KML-Server-Deployment:
+  - apiVersion: v2
+    created: "2020-10-13T06:07:06.023645019Z"
+    description: Single deployment for controldb and api server
+    digest: 9536b1b0aba7d117c61cfb304d8db0cce47ae09ffc6b448d5675a42e936a0f92
+    name: KML-Server-Deployment
+    urls:
+    - https://raw.githubusercontent.com/pawardevidas/KmlServerCharts/main/KML-Server-Deployment-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-10-13T06:07:06.020615339Z"
