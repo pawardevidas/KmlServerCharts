@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   KML Server Deployment:
   - apiVersion: v2
-    created: "2020-10-20T10:15:35.206980604Z"
+    created: "2020-10-20T14:59:18.67985044Z"
     description: Single deployment for controldb and api server
     digest: ff55cbcd3a8164d2c07af40932f842aca8c78761bbf0c6d975692f291166019d
     name: KML Server Deployment
@@ -11,20 +11,20 @@ entries:
     version: 1.0.0
   KML-Postgres-Deployment:
   - apiVersion: v2
-    created: "2020-10-20T10:15:35.207392777Z"
+    created: "2020-10-20T14:59:18.680609706Z"
     description: Postgres deployment
-    digest: d021f72a3135f1d8245cd3b8a87a7df8ca92f79895d4b7862924bef991a0cf7f
+    digest: c5dec5646a0e3cfbf6252488bde9b7abebeed5bdaaff861a87f4097af4b17f28
     name: KML-Postgres-Deployment
     urls:
     - https://raw.githubusercontent.com/pawardevidas/KmlServerCharts/main/KML-Postgres-Deployment-1.0.0.tgz
     version: 1.0.0
   KML-Server-Deployment:
   - apiVersion: v2
-    created: "2020-10-20T10:15:35.209856122Z"
+    created: "2020-10-20T14:59:18.683866359Z"
     description: Single deployment for controldb and api server
     digest: 90c744d35c6e1a2f8205b6f1ef41ead111dbc29c70975963cb2c6a7ef2b202ff
     name: KML-Server-Deployment
     urls:
     - https://raw.githubusercontent.com/pawardevidas/KmlServerCharts/main/KML-Server-Deployment-1.0.0.tgz
     version: 1.0.0
-generated: "2020-10-20T10:15:35.204539558Z"
+generated: "2020-10-20T14:59:18.67675358Z"
