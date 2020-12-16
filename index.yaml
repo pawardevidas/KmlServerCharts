@@ -1,33 +1,33 @@
 apiVersion: v1
 entries:
-  KML-HMLInstaller-Deployment:
+  kmlinstaller:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2020-12-15T16:58:24.62459427Z"
+    created: "2020-12-16T03:44:39.04910327Z"
     description: HMLInstaller deployment
-    digest: 2b5860bb515fb4b1a5f80c0797c19bfae04f6e591d21671f288ce4d8e8cf60af
-    name: KML-HMLInstaller-Deployment
+    digest: 65d6a5556dbd1b8f45b39737dd53f379ce8fbae191c7cefd96ec2cd0f104ac49
+    name: kmlinstaller
     urls:
-    - https://raw.githubusercontent.com/pawardevidas/KmlServerCharts/main/KML-HMLInstaller-Deployment-0.0.1.tgz
+    - https://raw.githubusercontent.com/pawardevidas/KmlServerCharts/main/kmlinstaller-0.0.1.tgz
     version: 0.0.1
-  KML-Server-Deployment:
+  kmlserver:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2020-12-15T16:58:24.62493268Z"
+    created: "2020-12-16T03:44:39.049298259Z"
     description: KML server deployment
-    digest: d18b667fc78d4a0f914a3220424e6eefd00197245167c885ee553148b81dfda1
-    name: KML-Server-Deployment
+    digest: 9b10c23b9b4fdad8af7a262b4df6536abf30b6a27aa25f25eed56ddfb418ebc2
+    name: kmlserver
     urls:
-    - https://raw.githubusercontent.com/pawardevidas/KmlServerCharts/main/KML-Server-Deployment-0.0.1.tgz
+    - https://raw.githubusercontent.com/pawardevidas/KmlServerCharts/main/kmlserver-0.0.1.tgz
     version: 0.0.1
-  KML-ZEUS:
+  kmlzeus:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2020-12-15T16:58:24.625152021Z"
+    created: "2020-12-16T03:44:39.049549444Z"
     description: KML deployment for ZEUS
-    digest: 7474d42aa028e284e33670477e1d9f1802489c0fc27ea024d57875ff09b2a04b
-    name: KML-ZEUS
+    digest: 6cdf98245a7e3b24d8c83d59b65b76d6ac1967ce2983b225d0cfccd2d85dd9af
+    name: kmlzeus
     urls:
-    - https://raw.githubusercontent.com/pawardevidas/KmlServerCharts/main/KML-ZEUS-0.0.1.tgz
+    - https://raw.githubusercontent.com/pawardevidas/KmlServerCharts/main/kmlzeus-0.0.1.tgz
     version: 0.0.1
-generated: "2020-12-15T16:58:24.62407011Z"
+generated: "2020-12-16T03:44:39.048692293Z"
