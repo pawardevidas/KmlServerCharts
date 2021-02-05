@@ -3,19 +3,40 @@ entries:
   kmlinstaller:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-02-01T20:45:57.5812425+05:30"
+    created: "2021-02-05T12:40:29.3996532+05:30"
     description: HMLInstaller deployment
-    digest: c32813216097bd34a8f70c82cb08beed1c03b9b6dcf6ca5e6a6a546d365e0bce
+    digest: 19cf13124a9a95674bbdbed4b24d7e7018d1c62eda3f4dedc81dfe1d85da1098
     name: kmlinstaller
     urls:
     - https://raw.githubusercontent.com/pawardevidas/KmlServerCharts/main/kmlinstaller-0.0.1.tgz
     version: 0.0.1
+  kmlpgadmin:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2021-02-05T12:40:29.4022301+05:30"
+    description: kmlpgAdmin is a web based administration tool for the PostgreSQL
+      database.
+    digest: 78f3c26f71e572cd2e44dd56e92680b8b8a4f6db7032810630f6e1ddb2b473d7
+    home: https://www.pgadmin.org/
+    icon: https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png
+    keywords:
+    - pgadmin
+    - postgres
+    - database
+    - sql
+    maintainers:
+    - email: devidas@knronml.com
+      name: devidas
+    name: kmlpgadmin
+    urls:
+    - https://raw.githubusercontent.com/pawardevidas/KmlServerCharts/main/kmlpgadmin-0.0.1.tgz
+    version: 0.0.1
   kmlpostgres:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-02-01T20:45:57.5823489+05:30"
+    created: "2021-02-05T12:40:29.4037279+05:30"
     description: Postgres deployment
-    digest: 5f24f1f2abc63dd78a24c8a368b4a14a3bbd80b574bda3054bb19946de443428
+    digest: a841e1b142dbd0ddefc60f16fb73ddb7c4ba9693e937065d0211435a8cf730c3
     name: kmlpostgres
     urls:
     - https://raw.githubusercontent.com/pawardevidas/KmlServerCharts/main/kmlpostgres-0.0.1.tgz
@@ -23,9 +44,9 @@ entries:
   kmlserver:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-02-01T20:45:57.5842405+05:30"
+    created: "2021-02-05T12:40:29.4056703+05:30"
     description: KML server deployment
-    digest: d1ea006e77549962726e267736da8dba4e3f5f3cca9137e21f70d74b82b3cd3d
+    digest: 9afcf3e44105cb3e60fc899a9ff52becab8c9e03f6d71c3900ccc2a81fa02979
     name: kmlserver
     urls:
     - https://raw.githubusercontent.com/pawardevidas/KmlServerCharts/main/kmlserver-0.0.1.tgz
@@ -33,9 +54,9 @@ entries:
   kmluiwebapp:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-02-01T20:45:57.584883+05:30"
+    created: "2021-02-05T12:40:29.4061153+05:30"
     description: UI Webapp deployment for KML UI
-    digest: fa41e9b066e21e44a88008587f5f80ee9e56a5df4b90b455becedc1b8dfe3893
+    digest: 37facc22627b39c08d30b088613e50a6d2070f5b0807d182bde0195086681da6
     name: kmluiwebapp
     urls:
     - https://raw.githubusercontent.com/pawardevidas/KmlServerCharts/main/kmluiwebapp-0.0.1.tgz
@@ -43,11 +64,11 @@ entries:
   kmlzeus:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-02-01T20:45:57.5852857+05:30"
+    created: "2021-02-05T12:40:29.4065682+05:30"
     description: KML deployment for ZEUS
-    digest: 305d10f70318fb088ecfb0100773b6a26b7ce2de06098fb82c13973dec966c57
+    digest: 615cf862e756bd1b988e66333cb6ffdd950667b4717627a5ebe12871efae82f6
     name: kmlzeus
     urls:
     - https://raw.githubusercontent.com/pawardevidas/KmlServerCharts/main/kmlzeus-0.0.1.tgz
     version: 0.0.1
-generated: "2021-02-01T20:45:57.5797386+05:30"
+generated: "2021-02-05T12:40:29.3862263+05:30"
